@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Itrans\\last\\Collection\\Collection\\Collection.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Itrans\\last\\Collection\\Collection\\Collection.Client\\obj\\Debug\\net8.0\\compressed\\7zwsmyyi0a.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Itrans\\last\\Collection\\Collection\\Collection.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "D:\\Itrans\\last\\Collection\\Collection\\Collection.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Collection.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Collection.Client.props",
+      "PackagePath": "build\\Collection.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Collection.Client.props",
+      "PackagePath": "buildMultiTargeting\\Collection.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Collection.Client.props",
+      "PackagePath": "buildTransitive\\Collection.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
